@@ -23,6 +23,7 @@ main {
 
 .card {
     padding: 1.75em;
+    min-width: 280px;
     display: flex;
     flex-direction: column;
     justify-content: center;
